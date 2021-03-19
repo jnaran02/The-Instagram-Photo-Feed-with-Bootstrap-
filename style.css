@@ -1,0 +1,57 @@
+body {
+    background-color: #E2E2E2;
+}
+.navbar {
+    background-color: #F7F9F9;
+    width: 100%;  
+                                                
+}
+
+.navbar p {
+    font-family: 'Billabong', sans-serif;
+    font-size: 300%;
+    margin-top: -10%; 
+    margin-bottom: -15%;                                               
+}
+
+.center  {
+    text-align: center;
+}
+
+.row {
+    padding: 1%;
+}
+
+#selec {
+    margin-right: 1%;
+} 
+
+.fondo {
+    background-color: #E2E2E2;
+    width: 70%;
+    margin: auto auto;
+    margin-top: 8.9%;
+}
+.fondo1 {
+    background-color: #E2E2E2;
+    margin: auto auto;
+    margin-top: 8.8%;
+}
+.container-fluid {
+    background-color: white;
+}
+#corazon {
+    font-size: 150%;
+}
+.comentario {
+    font-size: 150%;
+    padding-top: 5%;
+}
+#posicion {
+    font-size: 150%;
+    padding-top: 5%;
+}
+
+.card-text {
+    text-align: justify;
+}
